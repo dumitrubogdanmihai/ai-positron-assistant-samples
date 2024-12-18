@@ -2,9 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>AI Positron Assistant Samples</title>
-    <topicref href="keydefs.ditamap" format="ditamap">
-        <topicref href="reusables.ditamap" format="ditamap"/>
-    </topicref>
     <topicref href="Content%20Generation/prerequisites.dita"/>
     <topichead navtitle="Content Generation">
         <topicref href="Content%20Generation/new_dita_topic_sample.dita"/>
@@ -80,5 +77,8 @@
         href="Schematron%20and%20Quick%20Fixes/schematron_validation_with_quick_fixes_and_xslt_extensions.dita">
         <topicref href="Documentation%20Draft/format_and_indent_files.png" format="png"
             keys="format-indent"/>
+    </topicref>
+    <topicref href="keydefs.ditamap" format="ditamap">
+        <topicref href="reusables.ditamap" format="ditamap"/>
     </topicref>
 </map>
